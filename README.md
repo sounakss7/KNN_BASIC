@@ -1,7 +1,5 @@
-It looks like you've uploaded a Jupyter Notebook (`sk5.ipynb`). Here's a sample description for your GitHub repository to describe the purpose and contents of the notebook:
 
 ---
-
 ## Wine Classification using K-Nearest Neighbors (KNN)
 
 This Jupyter Notebook demonstrates a basic classification task using the K-Nearest Neighbors (KNN) algorithm from the `scikit-learn` library. The notebook utilizes the popular **UCI Wine dataset** to classify wine into three distinct classes based on various chemical properties.
