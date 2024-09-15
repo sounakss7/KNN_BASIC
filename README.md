@@ -1,1 +1,1 @@
-![image here]("fig.png")
+![image here](fig.png)
