@@ -42,3 +42,38 @@ The graph you provided shows both the actual and predicted values from your mode
 - The graph suggests that your model's predictions are highly accurate, with minimal differences between actual and predicted values. Based on the visual inspection, the KNeighborsClassifier is likely classifying the wine types with high accuracy.
 
 You could further quantify the accuracy by looking at the accuracy score you've printed in the earlier steps to confirm this visual observation.
+Here's an interactive guide to install and run the KNN_BASIC repository on your local machine:
+
+### Step 1: Clone the Repository
+1. Open a terminal (Command Prompt or Git Bash).
+2. Run the following command to clone the repo:
+   ```bash
+   git clone https://github.com/sounakss7/KNN_BASIC.git
+   ```
+   
+### Step 2: Navigate to the Directory
+Change into the project folder:
+   ```bash
+   cd KNN_BASIC
+   ```
+
+### Step 3: Create a Virtual Environment (optional but recommended)
+Set up a Python virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+### Step 4: Install Dependencies
+Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Step 5: Run the Jupyter Notebook
+Start Jupyter to run the KNN analysis:
+   ```bash
+   jupyter notebook KNN_BASIC.ipynb
+   ```
+
+Once launched, follow along with the steps in the notebook to execute the K-Nearest Neighbors algorithm using the provided Wine dataset.
